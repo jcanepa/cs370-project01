@@ -1,6 +1,6 @@
-# Intro to Computer Security
+# Intro to Computer Security: Project 01
 
-## Project 01: 3.4
+## 3.4
 
 ### Prerequisites
 Ensure you have both `python3` and `pip3` installed, and in your path.
