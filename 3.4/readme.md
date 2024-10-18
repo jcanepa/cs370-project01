@@ -18,5 +18,5 @@ pip3 install -r requirements.txt
 
 Now you can run the program:
 ```
-python brute-force.py
+python3 brute-force.py
 ```
